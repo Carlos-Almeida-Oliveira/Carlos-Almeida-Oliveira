@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlos-Almeida-Oliveira
 - 👀 I’m interested in an internship in the frontend area
-- 🌱 I’m currently learning html, css ,javascript and php in college this semester
+- 🌱 I’m currently learning html, css , javascript and php in college this semester
 
 
 <!---
